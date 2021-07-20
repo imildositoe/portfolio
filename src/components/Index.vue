@@ -1,6 +1,6 @@
 <template>
   <div>
-
+      <h2>Welcome to my portfolio</h2>
   </div>
 </template>
 
