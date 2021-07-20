@@ -1,24 +1,37 @@
-# portfolio
+[comment]: <> (# portfolio)
 
-## Project setup
-```
-npm install
-```
+[comment]: <> (## Project setup)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[comment]: <> (```)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[comment]: <> (npm install)
 
-### Lints and fixes files
-```
-npm run lint
-```
+[comment]: <> (```)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[comment]: <> (### Compiles and hot-reloads for development)
+
+[comment]: <> (```)
+
+[comment]: <> (npm run serve)
+
+[comment]: <> (```)
+
+[comment]: <> (### Compiles and minifies for production)
+
+[comment]: <> (```)
+
+[comment]: <> (npm run build)
+
+[comment]: <> (```)
+
+[comment]: <> (### Lints and fixes files)
+
+[comment]: <> (```)
+
+[comment]: <> (npm run lint)
+
+[comment]: <> (```)
+
+[comment]: <> (### Customize configuration)
+
+[comment]: <> (See [Configuration Reference]&#40;https://cli.vuejs.org/config/&#41;.)
