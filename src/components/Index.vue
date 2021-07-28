@@ -2,7 +2,7 @@
   <div>
     <img src="#" alt="small logo">
 
-    <ul>
+    <ul class="menu">
       <li>home</li>
       <li>work</li>
       <li>about me</li>
