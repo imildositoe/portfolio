@@ -10,7 +10,7 @@
     </ul>
 
     <h2>welcome to my portfolio</h2>
-    <h4>I am a Mozambican developer, living in Maputo. I am a code punchliner</h4>
+    <h4>I am a Mozambican developer, living in Maputo.</h4>
   </div>
 </template>
 
