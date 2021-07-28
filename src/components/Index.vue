@@ -24,4 +24,8 @@ export default {
   .menu {
     display: flex;
   }
+
+  .menu li {
+
+  }
 </style>
