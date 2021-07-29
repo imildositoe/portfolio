@@ -14,6 +14,10 @@
 
     <img src="#" alt="profile">
 
+    <div class="home"></div>
+    <div class="work"></div>
+    <div class="about_me"></div>
+    <div class="contact"></div>
   </div>
 </template>
 
