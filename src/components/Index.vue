@@ -26,6 +26,6 @@ export default {
   }
 
   .menu li {
-
+    list-style: none;
   }
 </style>
